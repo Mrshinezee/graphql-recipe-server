@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "shine",
+    "password": null,
+    "database": "graphql-recipe",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "shine",
+    "password": null,
+    "database": "graphql-recipe",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "shine",
+    "password": null,
+    "database": "graphql-recipe",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
